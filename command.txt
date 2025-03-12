@@ -1,0 +1,5 @@
+fake client hosil qilish 
+soni
+tolov qilinga bolsa is_pay=1
+tolovsin bolsa yozish shart emas
+php artisan client:fake 100 --is_pay=0
